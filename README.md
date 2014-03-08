@@ -11,8 +11,9 @@ JavaScript Journal - A monthly JavaScript newsletter curated by Eric Elliott, au
 
 [Contribute](https://github.com/javascript-journal/javascript-journal/issues/new)
 
-Suggest content for the JavaScript Journal. Typically there are three types of content we accept:
+Suggest content for the JavaScript Journal. Here are the types of content we accept:
 * Links
+* Videos
 * Tweetworthy Tips
 * Noteworthy Articles
 * Q & A - Do you have a question you'd like Eric Elliott (or one of our guest experts) to answer? This is the place.
