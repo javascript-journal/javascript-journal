@@ -15,3 +15,4 @@ Suggest content for the JavaScript Journal. Typically there are three types of c
 * Links
 * Tweetworthy Tips
 * Noteworthy Articles
+* Q & A - Do you have a question you'd like Eric Elliott (or one of our guest experts) to answer? This is the place.
